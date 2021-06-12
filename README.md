@@ -1,5 +1,6 @@
 # langtuhodo.github.io
-This works for most of the Sublime Text 4.X x64 (Including 4107) - block the license check via host or patch it out of EXE
+- This works for most of the Sublime Text 4.X x64 (Including 4107) - block the license check via host or patch it out of EXE
+- You can use any hex editor, a free one https://hexed.it/ works too.. just make sure to export -> replace (please check the <b>List all occourrences</b> near the <b>Find next</b> button
 
 RSA Key Patch (allows any key in right format to work)
 
